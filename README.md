@@ -53,7 +53,7 @@
 ### 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/yashkatiyar24?ext=contest" alt="LeetCode Stats for yashkatiyar24" />
+  <img src="https://leetcard.jacoblin.cool/yashkatiyar?ext=contest" alt="LeetCode Stats for yashkatiyar" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
   <a href="mailto:yashkatiyar2405@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat-square" />
   </a>
-  <a href="https://leetcode.com/yashkatiyar24/" target="_blank">
+  <a href="https://leetcode.com/yashkatiyar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=flat-square" />
   </a>
   <a href="https://github.com/yashkatiyar24" target="_blank">
